@@ -74,3 +74,4 @@ algebra on your MCU, the following crates might help you
 - [`micromath`](https://github.com/tarcieri/micromath)
 - [`microfft`](https://crates.io/crates/microfft)
 - [`nalgebra`](https://github.com/dimforge/nalgebra)
+- [`idsp`](https://github.com/quartiq/idsp)
